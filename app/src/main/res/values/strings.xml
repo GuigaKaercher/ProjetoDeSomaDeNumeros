@@ -1,0 +1,10 @@
+<resources>
+    <resources>
+        <string name="app_name">Nome do Aplicativo</string>
+        <string name="titulo">Digite Um Numero:</string>
+        <string name="mensagem">Digite Outro Numero:</string>
+        <string name="botao_calcular">Calcular</string>
+        <string name="resultado">Resultado</string>
+    </resources>
+
+</resources>
